@@ -1,6 +1,8 @@
 # personal-finance-management-application-
 finanace
-# 💰 Personal Finance Management Application https://superlative-seahorse-8ea641.netlify.app
+# 💰 Personal Finance Management Application 
+
+https://superlative-seahorse-8ea641.netlify.app
 
 A smart Personal Finance Management System powered by Python and Machine Learning. The application helps users track expenses, analyze spending habits, set savings goals, and get personalized financial insights.
 
